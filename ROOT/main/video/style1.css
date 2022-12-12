@@ -1,0 +1,26 @@
+﻿/* body */
+body {
+    background: lightgrey;  /* 배경색 */	
+}
+
+/* header */
+.header1 {
+	display: table;         /* 표시 형태 */
+	width: 100%;            /* 너비 */
+	height: 50px;           /* 높이 */
+    background: #0080ff;      /* 배경색 */
+	color: white;           /* 글자색 */
+	text-align: center;     /* 글자의 수평배치 */
+	vertical-align: middle; /* 글자의 수직배치 */
+}
+
+/* footer */
+.footer1 {
+	display: table;         /* 표시 형태 */
+	width: 100%;            /* 너비 */
+	height: 40px;           /* 높이 */
+    background: black;  /* 배경색 */
+	color: white;        /* 글자색 */
+	text-align: center;     /* 글자의 배치 */
+	vertical-align: middle; /* 글자의 배치 */
+} 
